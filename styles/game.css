@@ -1,0 +1,48 @@
+.button-button3{
+    width: 139px;
+    height: 57px;
+    border-radius: 10px;
+    margin-left: 630px;
+    font-size: 20px;
+    line-height: 37.5px;
+    color: white;
+    background-color: #5141AA;
+}
+
+.button-button4{
+    width: 139px;
+    height: 57px;
+    border-radius: 10px;
+    margin-top: 72px;
+    font-size: 20px;
+    line-height: 37.5px;
+    color: white;
+    background-color: #5141AA;
+    position: absolute;
+    left: 45%;
+}
+
+#fire1:hover #fire-icon{
+    transform: scale(1.5);
+        transition: transform 0.3s ease-in-out;
+}
+
+#fire2:hover #fire-icon{
+    transform: scale(1.5);
+        transition: transform 0.3s ease-in-out;
+}
+
+#fire3:hover #fire-icon{
+    transform: scale(1.5);
+        transition: transform 0.3s ease-in-out;
+}
+
+#fire4:hover #fire-icon{
+    transform: scale(1.5);
+        transition: transform 0.3s ease-in-out;
+}
+
+#images:hover{
+    -webkit-filter: blur(2px);
+    filter: blur(2px);
+}
